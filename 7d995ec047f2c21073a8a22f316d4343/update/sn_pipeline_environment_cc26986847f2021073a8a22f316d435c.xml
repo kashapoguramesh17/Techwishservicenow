@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="INSERT_OR_UPDATE">
+        <instance_credential display_value="sn_cicd_spoke.CICD">752a91887740001038e286a2681061fb</instance_credential>
+        <instance_id>bc4184b31b0e8614e84d2f8dee4bcb3f</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://dev270405.service-now.com/</instance_url>
+        <is_controller>false</is_controller>
+        <name>DevNamita</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-11 12:15:23</sys_created_on>
+        <sys_id>cc26986847f2021073a8a22f316d435c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DevNamita</sys_name>
+        <sys_package display_value="Techwish" source="x_1347512_techwish">7d995ec047f2c21073a8a22f316d4343</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwish">7d995ec047f2c21073a8a22f316d4343</sys_scope>
+        <sys_update_name>sn_pipeline_environment_cc26986847f2021073a8a22f316d435c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-11 12:15:23</sys_updated_on>
+    </sn_pipeline_environment>
+</record_update>

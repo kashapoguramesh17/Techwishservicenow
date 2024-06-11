@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3ae0a0a44736021073a8a22f316d43e0" label="Laptops" max_length="40" name="x_1347512_techwish_laptops" type="collection">
+        <element display="true" label="Org Name" max_length="40" name="org_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
